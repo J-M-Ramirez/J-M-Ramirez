@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @J-M-Ramirez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Buenas mi nombre es José Manuel Ramirez, soy de un pueblo de la provincia de Cádiz en España (Barbate), 
+soy aficionado a las motos y practico hace más de 30 años en aeromodelismo ( NO DRONES ), 
+  Entro aquí porque me he aficionado al mundo de Arduino y me gustaría seguir con buen pie con ello,
+estudíe hace tiempo Informática de Gestión y esto me trae recuerdo. Soy albañil asi que esto es solo como
+hobby con pensamiento de poder utilizarlo alguna vez en mis aviones.
 
-<!---
-  Hola mi nombre es José Manuel Ramírez, soy un pueblo de la provincia de Cádiz en España ( Barbate) , estoy aqui 
-porque he entrado en el mundo de Arduino y quisiera aprender. Estudié Informática de Gestión hade ya .....más de 30 años.
-  Soy albañil así que esto es solo por hobby y para ver si lo puedo utilizar en el mundo del aeromodelismo ( NO DRONES) en el que
-llevo más de 30 años. 
-  Muchas gracias a todos y espero aprender.
+Gracias a todos
+
 
 
 --->
